@@ -1,0 +1,21 @@
+## The Idea
+
+We look forward to make a user interactive Chat system with a bot incorporated in it.
+
+The prime theme is that, momentarily as on the frequency, the user allows, the device would capture a picture and analyse his sentiments based on which set the chat theme, and if its in a bad phase the app will help the user in a better way!
+
+
+##10 May
+update on objective:
+we now have a chat sytem where in we tend to start the app by image recognition and then use the texts of user to determine sentiments, set the chat theme accordingly.
+
+##12 May
+update on objectibe, no more sentiment analysis
+
+
+#Almost Final Objective Version:
+
+AN App that is in the exe form, opens by clicking an icon, face recognition recognises you and then takes you to your profile else opens a dialouge box to create new one
+then comes up a new window with home page called AYCI it6 is our chatbot
+there are options to change theme, ui scaling and voice input/output modes. 
+There are also options to go to the chat room or to personal Chats.
